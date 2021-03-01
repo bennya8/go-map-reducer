@@ -1,3 +1,3 @@
 # Go Map Reducer
 
-A simplyly map reducer Distribution computed framework
+A simply map reducer computed framework
